@@ -47,9 +47,9 @@ CREATE TABLE `classificacao` (
 ;
 
 CREATE TABLE `jogadores` (
-    `JOGADOR_NAME` VARCHAR(50) NOT NULL,
-    `TIME_ID` INT NOT NULL,
     `JOGADOR_ID` INT NOT NULL,
+    `TIME_ID` INT NOT NULL,
+    `JOGADOR_NAME` VARCHAR(50) NOT NULL,
     PRIMARY KEY (jogador_ID),
     FOREIGN KEY (time_ID)
         REFERENCES times (Time_ID)
