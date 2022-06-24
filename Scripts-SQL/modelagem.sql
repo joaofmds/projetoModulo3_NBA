@@ -5,7 +5,6 @@ USE `NBA`;
 -- criação de tabelas / modelagem
 
 CREATE TABLE `jogos` (
-    `data-jogo` DATE NOT NULL,
     `jogo_ID` INT NOT NULL,
     `casa_ID` INT NOT NULL,
     `pontos_casa` INT,
