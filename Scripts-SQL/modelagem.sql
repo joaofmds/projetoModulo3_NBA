@@ -36,23 +36,23 @@ CREATE TABLE `classificacao` (
     `TIME_ID` INT not null,
     `TEMPORADA` YEAR,
     `CONFERENCIA` VARCHAR(5),
-    `TIME` VARCHAR(50),
+    `TIME_NOME` VARCHAR(50),
     `JG` INT,
     `V` INT,
     `D` INT,
     `V_PCT` DOUBLE,
-    FOREIGN KEY (TIME_ID)
-        REFERENCES times (TIME_ID)
+	FOREIGN KEY (TIME_ID)
+		REFERENCES times (TIME_ID)
 )
 ;
 
 CREATE TABLE `jogadores` (
     `JOGADOR_ID` INT NOT NULL,
-    `TIME_ID` INT NOT NULL,
     `JOGADOR_NOME` VARCHAR(50) NOT NULL,
-    PRIMARY KEY (jogador_ID),
-    FOREIGN KEY (time_ID)
-        REFERENCES times (Time_ID)
+    `TIME_ID` INT NOT NULL,
+    PRIMARY KEY (JOGADOR_ID),
+    FOREIGN KEY (TIME_ID)
+		REFERENCES times (TIME_ID)
 )
 ;
 
@@ -69,8 +69,8 @@ CREATE TABLE `detalhes_jogos` (
     `PONTOS` INT,
     FOREIGN KEY (jogo_id)
         REFERENCES jogos (jogo_id),
-    FOREIGN KEY (time_id)
-        REFERENCES times (time_id),
+    FOREIGN KEY (TIME_ID)
+		REFERENCES times (TIME_ID),
     FOREIGN KEY (jogador_id)
         REFERENCES jogadores (jogador_id)
 )
