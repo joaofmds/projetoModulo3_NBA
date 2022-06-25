@@ -1,4 +1,4 @@
-TIME_ID;NOME_TIME;APELIDO;ANO_FUNDACAO;ARENA;DONO_TIME
+TEAM_ID;NOME_TEAM;APELIDO;ANO_FUNDACAO;ARENA;DONO_TEAM
 1610612737;Atlanta;Hawks;1949;State Farm Arena;Tony Ressler
 1610612740;New Orleans;Pelicans;2002;Smoothie King Center;Tom Benson
 1610612741;Chicago;Bulls;1966;United Center;Jerry Reinsdorf
