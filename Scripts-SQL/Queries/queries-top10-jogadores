@@ -1,0 +1,44 @@
+-- query top 10 players com mais pontos
+
+select jogador_nome as Jogador, nome_time as Clube, sum(pontos) as Top10Pontos
+from detalhes_jogos
+inner join times on times.time_id = detalhes_jogos.time_id
+group by jogador_nome
+order by Top10Pontos desc
+limit 10;
+
+-- query top 10 players com mais assistências
+
+select jogador_nome as Jogador, nome_time as Clube, sum(assists) as Top10Assistências
+from detalhes_jogos
+inner join times on times.time_id = detalhes_jogos.time_id
+group by jogador_nome
+order by Top10Assistências desc
+limit 10;
+
+-- query top 10 players com mais tocos
+
+select jogador_nome as Jogador, nome_time as Clube, sum(bloqueio) as Top10Tocos
+from detalhes_jogos
+inner join times on times.time_id = detalhes_jogos.time_id
+group by jogador_nome
+order by Top10Tocos desc
+limit 10;
+
+-- query top 10 players com mais roubadas de bola
+
+select jogador_nome as Jogador, nome_time as Clube, sum(roubo) as Top10Roubadas
+from detalhes_jogos
+inner join times on times.time_id = detalhes_jogos.time_id
+group by jogador_nome
+order by Top10Roubadas desc
+limit 10;
+
+-- query top 10 players com mais rebotes
+
+select jogador_nome as Jogador, nome_time as Clube, sum(rebote) as Top10Rebotes
+from detalhes_jogos
+inner join times on times.time_id = detalhes_jogos.time_id
+group by jogador_nome
+order by Top10Rebotes desc
+limit 10;
