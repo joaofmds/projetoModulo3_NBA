@@ -1,0 +1,5 @@
+-- query para classificacao geral por conferencia leste-oeste
+
+select time_nome as Clube, conferencia, jg, v, d, V_PCT
+from classificacao
+order by conferencia, V_PCT desc;
