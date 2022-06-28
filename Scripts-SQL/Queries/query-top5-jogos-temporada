@@ -1,0 +1,10 @@
+-- query top 5 jogos destaques da temporada
+
+select * from jogos;
+
+select classificacao.TIME_NOME as Time_da_Casa, jogos.pontos_casa as Pontos, times.NOME_TIME as Time_Visitante, jogos.pontos_visit as Pontos
+from jogos
+inner join classificacao on classificacao.TIME_ID = jogos.casa_id
+inner join times on times.TIME_ID = jogos.VISITANTE_ID
+order by pontos_casa desc
+limit 5;
