@@ -8,7 +8,7 @@ body {
 }
 
 .container {
-  padding: 70px 0;
+  padding: 10px 0;
 }
 
 a {
@@ -48,4 +48,123 @@ header,
 #logo {
   margin-left: 2rem;
   margin-top: 2rem;
+}
+
+/*main slider*/
+
+.container-fluid {
+  padding: 0;
+}
+
+#mainSlider .carousel-inner,
+#mainSlider .carousel-item {
+  height: 80vh;
+}
+
+#mainSlider .carousel-caption {
+  top: 30%;
+}
+
+#mainSlider .carousel-caption h2 {
+  font-size: 50px;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+
+#mainSlider .carousel-caption p {
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.main-btn {
+  background-color: #d96725;
+  width: 200px;
+  height: 60px;
+  padding: 15px 60px;
+  border-radius: 50px;
+  text-transform: uppercase;
+  color: #000000;
+  transition: 0.5s;
+  font-weight: 500;
+}
+
+.main-btn:hover {
+  text-decoration: none;
+  color: #f2f2f2;
+  background-color: transparent;
+  border-color: #d96725;
+}
+
+.carousel-indicators .active {
+  background-color: #d96725;
+}
+
+/*section1*/
+
+/*
+.section1{
+  margin-top: 5%;
+}
+
+.dropdown{
+  margin-top: 4%;
+}
+*/
+
+/*tables*/
+
+.section1 {
+  background: linear-gradient(
+    179.2deg,
+    #1a1a1a 0.69%,
+    rgba(166, 47, 3, 0.8) 15.8%,
+    rgba(217, 103, 37, 0.8) 28.22%
+  );
+}
+
+.dropdown-toggle {
+  background: #a62f03;
+  border: none;
+  border-radius: 22px;
+  padding: 15px 60px;
+}
+
+.dropdown-toggle:hover {
+  transition: 0.5s;
+  background-color: #d96725;
+}
+
+@font-face {
+  font-family: "Waukegan";
+  src: local(Waukegan LDO Bold), url(/Front/assets/font/Waukegan\ LDO\ Bold.ttf);
+  font-weight: 700;
+}
+
+h2 {
+  font-family: "Waukegan", "Roboto", sans-serif;
+  font-weight: normal;
+}
+
+.list-complet {
+  text-decoration: none;
+  color: #591202;
+  letter-spacing: 1.5px;
+}
+
+.list-complet:hover {
+  color: #f2f2f2;
+}
+
+/*section 2*/
+
+.capa2 {
+ width: 100%;
+ 
+padding: 0;
+margin-top: 0;
+  
+}
+
+.section2{
+ padding-top: 0;
 }
