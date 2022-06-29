@@ -99,21 +99,12 @@ header,
   background-color: #d96725;
 }
 
-/*section1*/
 
-/*
-.section1{
-  margin-top: 5%;
-}
-
-.dropdown{
-  margin-top: 4%;
-}
-*/
 
 /*tables*/
 
-.section1, .section2 {
+.section1,
+.section2 {
   background: linear-gradient(
     179.2deg,
     #1a1a1a 0.69%,
@@ -157,7 +148,7 @@ h2 {
 
 /*section 2*/
 
-.section2{
+.section2 {
   position: relative;
   margin-bottom: 0;
   padding: 0;
@@ -165,18 +156,42 @@ h2 {
 
 .top-right {
   position: absolute;
-  top: 40%;
+  top: 20%;
   left: 70%;
   transform: translate(-50%, -50%);
 }
 
-.h2-s-2{
+.h2-s-2 {
   letter-spacing: 1.5px;
   font-size: 100px;
   font-style: italic;
 }
 
-.nba{
+.nba {
   color: #d96725;
 }
 
+.h3-style {
+  margin-left: 10%;
+  margin-top: 5%;
+  font-family: "Waukegan", "Roboto", sans-serif;
+  letter-spacing: 1.5px;
+}
+
+.th-style {
+  color: #591202;
+}
+
+.result-nba-img {
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+.section3 {
+  background: linear-gradient(
+    360deg,
+    #1a1a1a -71.24%,
+    #a62f03 -15.19%,
+    rgba(217, 103, 37, 0.8) 45.06%
+  );
+}
