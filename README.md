@@ -32,3 +32,9 @@ A proposta do projeto era utilizar uma das bases de dados disponibilizadas (esco
 
 - [x] Kanban
 - [x] Divisão em Front-end (para apresentação) e Back-end para requisitos técnicos
+
+<h2>QUERIES CRIADAS:</h2>
+![queries](./Front/queries.png)
+![Estatísticas do time](./Front/TIME_GRAFICOS.png)
+![Estatísticas dos jogadores](./Front/JOGADOR-GRAFICOS.png)
+
