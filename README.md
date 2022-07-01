@@ -34,7 +34,7 @@ A proposta do projeto era utilizar uma das bases de dados disponibilizadas (esco
 ## Organização do projeto:
 
 - [x] Kanban
-- [x] Divisão em Front-end (para apresentação) e Back-end para requisitos técnicos
+- [x] Divisão em Front-end para apresentação e Back-end para requisitos técnicos
 
 ## Queries criadas:
 
