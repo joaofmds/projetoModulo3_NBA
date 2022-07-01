@@ -29,7 +29,7 @@ A proposta do projeto era utilizar uma das bases de dados disponibilizadas (esco
     - [x] VS Code
 - [x] Apresentação
     - [x] Canva
-    - [x] Adobe PhotoShop
+    - [x] Paint Tool Sai
 
 ## Organização do projeto:
 
