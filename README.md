@@ -33,7 +33,7 @@ A proposta do projeto era utilizar uma das bases de dados disponibilizadas (esco
 - [x] Kanban
 - [x] Divisão em Front-end (para apresentação) e Back-end para requisitos técnicos
 
-## QUERIES CRIADAS:
+## Queries criadas:
 ![Classificação geral leste](./Front/assets/img/img-readme/classificacao-geral-leste.png)
 ![Classificação geral oeste](./Front/assets/img/img-readme/classificacao-geral-oeste.png)
 ![Destaques](./Front/assets/img/img-readme/destaques.png)
