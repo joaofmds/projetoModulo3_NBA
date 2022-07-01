@@ -38,42 +38,42 @@ A proposta do projeto era utilizar uma das bases de dados disponibilizadas (esco
 
 ## Queries criadas:
 
-Query para classificação geral por conferência leste e oeste
+### Query para classificação geral por conferência leste e oeste
 ![Classificação geral](./Front/assets/img/img-readme/classificacao-geral.jpeg)
 
-Query para classificação para os playoffs
+### Query para classificação para os playoffs
 ![Classificação para os Playoffs](./Front/assets/img/img-readme/classificacao-playoffs.jpeg)
 
-Query top 5 jogos destaques da temporada (por quantidade de pontos marcados em casa)
+### Query top 5 jogos destaques da temporada (por quantidade de pontos marcados em casa)
 ![Destaques](./Front/assets/img/img-readme/destaques.png)
 
-Query top 10 players com mais assistências
+### Query top 10 players com mais assistências
 ![Jogador assists](./Front/assets/img/img-readme/jogador-assists.png)
 
-Query top 10 players com mais bloqueios (tocos)
+### Query top 10 players com mais bloqueios (tocos)
 ![Jogador bloqueio](./Front/assets/img/img-readme/jogador-bloqueio.png)
 
-Query top 10 players com mais pontos
+### Query top 10 players com mais pontos
 ![Jogador ponto](./Front/assets/img/img-readme/jogador-ponto.png)
 
-Query top 10 players com mais rebotes
+### Query top 10 players com mais rebotes
 ![Jogador rebote](./Front/assets/img/img-readme/jogador-rebote.png)
 
-Query top 10 players com mais roubadas de bola
+### Query top 10 players com mais roubadas de bola
 ![Jogador roubo](./Front/assets/img/img-readme/jogador-roubo.png)
 
-Query top 10 times com mais assistências
+### Query top 10 times com mais assistências
 ![time assists](./Front/assets/img/img-readme/time-assists.png)
 
-Query top 10 times com mais bloqueios (tocos)
+### Query top 10 times com mais bloqueios (tocos)
 ![time bloqueio](./Front/assets/img/img-readme/time-bloqueio.png)
 
-Query top 10 times com mais pontos
+### Query top 10 times com mais pontos
 ![time ponto](./Front/assets/img/img-readme/time-ponto.png)
 
-Query top 10 times com mais rebotes
+### Query top 10 times com mais rebotes
 ![time rebote](./Front/assets/img/img-readme/time-rebote.png)
 
-Query top 10 times com mais roubadas de bola
+### Query top 10 times com mais roubadas de bola
 ![time roubo](./Front/assets/img/img-readme/time-roubo.png)
 
