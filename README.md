@@ -1,6 +1,6 @@
 # Projeto Final do Módulo 3 do Curso de Desenvolvimento WEB Full-Stack da Resilia Educação - NBAPP :computer::basketball:
 
-<h2 id="descricao">Descrição</h2>
+## Descrição
 A proposta do projeto era utilizar uma das bases de dados disponibilizadas (escolhemos a da NBA) e executar uma série de queries percebidas como relevantes. Utilizamos a seguinte orientação:
 
 <br>
@@ -12,7 +12,7 @@ A proposta do projeto era utilizar uma das bases de dados disponibilizadas (esco
 4. Criação e execução das Queries
 
 
-<h2 id="tecnologias">Softwares & tecnologias utilizadas projeto :computer:</h2>
+## Softwares & tecnologias utilizadas projeto :computer:
 
 - [x] Back-end
     - [x] Ecxel
@@ -28,12 +28,12 @@ A proposta do projeto era utilizar uma das bases de dados disponibilizadas (esco
     - [x] GitHub
     - [x] VS Code
 
-<h2 id="soft">Organização do projeto:</h2>
+## Organização do projeto:
 
 - [x] Kanban
 - [x] Divisão em Front-end (para apresentação) e Back-end para requisitos técnicos
 
-<h2>QUERIES CRIADAS:</h2>
+## QUERIES CRIADAS:
 ![queries](./Front/queries.png)
 ![Estatísticas do time](./Front/TIME_GRAFICOS.png)
 ![Estatísticas dos jogadores](./Front/JOGADOR-GRAFICOS.png)
