@@ -34,7 +34,17 @@ A proposta do projeto era utilizar uma das bases de dados disponibilizadas (esco
 - [x] Divisão em Front-end (para apresentação) e Back-end para requisitos técnicos
 
 ## QUERIES CRIADAS:
-![queries](./Front/queries.png)
-![Estatísticas do time](./Front/TIME_GRAFICOS.png)
-![Estatísticas dos jogadores](./Front/JOGADOR-GRAFICOS.png)
+![Classificação geral leste](./Front/assets/img/img-readme/classificacao-geral-leste.png)
+![Classificação geral oeste](./Front/assets/img/img-readme/classificacao-geral-oeste.png)
+![Destaques](./Front/assets/img/img-readme/destaques.png)
+![Jogador assists](./Front/assets/img/img-readme/jogador-assists.png)
+![Jogador bloqueio](./Front/assets/img/img-readme/jogador-bloqueio.png)
+![Jogador ponto](./Front/assets/img/img-readme/jogador-ponto.png)
+![Jogador rebote](./Front/assets/img/img-readme/jogador-rebote.png)
+![Jogador roubo](./Front/assets/img/img-readme/jogador-roubo.png)
+![time assists](./Front/assets/img/img-readme/time-assists.png)
+![time bloqueio](./Front/assets/img/img-readme/time-bloqueio.png)
+![time ponto](./Front/assets/img/img-readme/time-ponto.png)
+![time rebote](./Front/assets/img/img-readme/time-rebote.png)
+![time roubo](./Front/assets/img/img-readme/time-roubo.png)
 
