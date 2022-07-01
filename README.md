@@ -38,9 +38,11 @@ A proposta do projeto era utilizar uma das bases de dados disponibilizadas (esco
 
 ## Queries criadas:
 
-Query para classificacao geral por conferencia leste e oeste
-![Classificação geral leste](./Front/assets/img/img-readme/classificacao-geral-leste.png)
-![Classificação geral oeste](./Front/assets/img/img-readme/classificacao-geral-oeste.png)
+Query para classificação geral por conferência leste e oeste
+![Classificação geral](./Front/assets/img/img-readme/classificacao-geral.jpeg)
+
+Query para classificação para os playoffs
+![Classificação para os Playoffs](./Front/assets/img/img-readme/classificacao-playoffs.jpeg)
 
 Query top 5 jogos destaques da temporada (por quantidade de pontos marcados em casa)
 ![Destaques](./Front/assets/img/img-readme/destaques.png)
