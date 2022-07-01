@@ -24,9 +24,12 @@ A proposta do projeto era utilizar uma das bases de dados disponibilizadas (esco
     - [x] CSS3
     - [x] Figma
     - [x] Bootstrap
-- [x] Outras
+- [x] Versionamento de Código
     - [x] GitHub
     - [x] VS Code
+- [x] Apresentação
+    - [x] Canva
+    - [x] Adobe PhotoShop
 
 ## Organização do projeto:
 
@@ -34,17 +37,41 @@ A proposta do projeto era utilizar uma das bases de dados disponibilizadas (esco
 - [x] Divisão em Front-end (para apresentação) e Back-end para requisitos técnicos
 
 ## Queries criadas:
+
+Query para classificacao geral por conferencia leste e oeste
 ![Classificação geral leste](./Front/assets/img/img-readme/classificacao-geral-leste.png)
 ![Classificação geral oeste](./Front/assets/img/img-readme/classificacao-geral-oeste.png)
+
+Query top 5 jogos destaques da temporada (por quantidade de pontos marcados em casa)
 ![Destaques](./Front/assets/img/img-readme/destaques.png)
+
+Query top 10 players com mais assistências
 ![Jogador assists](./Front/assets/img/img-readme/jogador-assists.png)
+
+Query top 10 players com mais bloqueios (tocos)
 ![Jogador bloqueio](./Front/assets/img/img-readme/jogador-bloqueio.png)
+
+Query top 10 players com mais pontos
 ![Jogador ponto](./Front/assets/img/img-readme/jogador-ponto.png)
+
+Query top 10 players com mais rebotes
 ![Jogador rebote](./Front/assets/img/img-readme/jogador-rebote.png)
+
+Query top 10 players com mais roubadas de bola
 ![Jogador roubo](./Front/assets/img/img-readme/jogador-roubo.png)
+
+Query top 10 times com mais assistências
 ![time assists](./Front/assets/img/img-readme/time-assists.png)
+
+Query top 10 times com mais bloqueios (tocos)
 ![time bloqueio](./Front/assets/img/img-readme/time-bloqueio.png)
+
+Query top 10 times com mais pontos
 ![time ponto](./Front/assets/img/img-readme/time-ponto.png)
+
+Query top 10 times com mais rebotes
 ![time rebote](./Front/assets/img/img-readme/time-rebote.png)
+
+Query top 10 times com mais roubadas de bola
 ![time roubo](./Front/assets/img/img-readme/time-roubo.png)
 
