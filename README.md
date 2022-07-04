@@ -15,7 +15,7 @@ A proposta do projeto era utilizar uma das bases de dados disponibilizadas (esco
 ## Softwares & tecnologias utilizadas projeto :computer:
 
 - [x] Back-end
-    - [x] Ecxel
+    - [x] Excel
     - [x] SQL
     - [x] MySQL Server / Workbench
     - [x] DBeaver
